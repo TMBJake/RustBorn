@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 75a6c2bb306f5e54295b0794501c82f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3040511132228055750
+    second: DoorIcons_0
+  - first:
+      213: 1341871389048019784
+    second: DoorIcons_1
+  - first:
+      213: -2006072801447079169
+    second: DoorIcons_2
+  - first:
+      213: 6323834136114654754
+    second: DoorIcons_3
+  - first:
+      213: -4716450210941124546
+    second: DoorIcons_4
+  - first:
+      213: 1952701254258500383
+    second: DoorIcons_5
+  - first:
+      213: 9191174955070261601
+    second: DoorIcons_6
+  - first:
+      213: -2965834585634245269
+    second: DoorIcons_7
+  - first:
+      213: 7068300750839167886
+    second: DoorIcons_8
+  - first:
+      213: 2497888560104845177
+    second: DoorIcons_9
+  - first:
+      213: -4366612136413633691
+    second: DoorIcons_10
+  - first:
+      213: 4168970203918123693
+    second: DoorIcons_11
+  - first:
+      213: -6012674548747234076
+    second: DoorIcons_12
+  - first:
+      213: 5963376406051874772
+    second: DoorIcons_13
+  - first:
+      213: 6056258753200007897
+    second: DoorIcons_14
+  - first:
+      213: 8583170882486583664
+    second: DoorIcons_15
+  - first:
+      213: -7081400731416698866
+    second: DoorIcons_16
+  - first:
+      213: 148380398244148538
+    second: DoorIcons_17
+  - first:
+      213: 2710172925329792893
+    second: DoorIcons_18
+  - first:
+      213: -8589471779449401406
+    second: DoorIcons_19
+  - first:
+      213: 5351897280238425478
+    second: DoorIcons_20
+  - first:
+      213: -8169251532391000420
+    second: DoorIcons_21
+  - first:
+      213: -7516991447751071884
+    second: DoorIcons_22
+  - first:
+      213: 7759352273382049418
+    second: DoorIcons_23
+  - first:
+      213: -898246516457619410
+    second: DoorIcons_24
+  - first:
+      213: 24884054104938574
+    second: DoorIcons_25
+  - first:
+      213: -1486211138950341379
+    second: DoorIcons_26
+  - first:
+      213: -8643021118782534307
+    second: DoorIcons_27
+  - first:
+      213: 2881458887557233428
+    second: DoorIcons_28
+  - first:
+      213: -3231299508207279178
+    second: DoorIcons_29
+  - first:
+      213: 3161606804659339327
+    second: DoorIcons_30
+  - first:
+      213: -4689812857091434729
+    second: DoorIcons_31
+  - first:
+      213: -3705997072628240644
+    second: DoorIcons_32
+  - first:
+      213: -9111711588893296536
+    second: DoorIcons_33
+  - first:
+      213: 8325065719775808828
+    second: DoorIcons_34
+  - first:
+      213: -7260822550616767232
+    second: DoorIcons_35
+  - first:
+      213: -7997592883498303436
+    second: DoorIcons_36
+  - first:
+      213: 8693452694979314933
+    second: DoorIcons_37
+  - first:
+      213: 3759825679841778436
+    second: DoorIcons_38
+  - first:
+      213: -546170673875023607
+    second: DoorIcons_39
+  - first:
+      213: -500079187878276781
+    second: DoorIcons_40
+  - first:
+      213: 5426822960310658464
+    second: DoorIcons_41
+  - first:
+      213: -6967744361624128286
+    second: DoorIcons_42
+  - first:
+      213: 4116576345076235850
+    second: DoorIcons_43
+  - first:
+      213: 8822290243285122667
+    second: DoorIcons_44
+  - first:
+      213: 3431782598323816594
+    second: DoorIcons_45
+  - first:
+      213: 4154448075616016429
+    second: DoorIcons_46
+  - first:
+      213: 5565236640758790254
+    second: DoorIcons_47
+  - first:
+      213: -8318558378601466198
+    second: DoorIcons_48
+  - first:
+      213: -4825364146874614555
+    second: DoorIcons_49
+  - first:
+      213: 8724320747253536608
+    second: DoorIcons_50
+  - first:
+      213: 5425857972477647732
+    second: DoorIcons_51
+  - first:
+      213: -5742878593883477622
+    second: DoorIcons_52
+  - first:
+      213: -1519262734751993285
+    second: DoorIcons_53
+  - first:
+      213: 1281567584949224757
+    second: DoorIcons_54
+  - first:
+      213: -285143093843529014
+    second: DoorIcons_55
+  - first:
+      213: -5846618055251354798
+    second: DoorIcons_56
+  - first:
+      213: -1541315602846438297
+    second: DoorIcons_57
+  - first:
+      213: -545014660259684388
+    second: DoorIcons_58
+  - first:
+      213: -7938617445217603918
+    second: DoorIcons_59
+  - first:
+      213: -2418877476455397563
+    second: DoorIcons_60
+  - first:
+      213: 7713089405475450793
+    second: DoorIcons_61
+  - first:
+      213: -8169347206723196920
+    second: DoorIcons_62
+  - first:
+      213: 3725825739286250557
+    second: DoorIcons_63
+  - first:
+      213: 3905340702598835665
+    second: DoorIcons_64
+  - first:
+      213: -1925227934946435182
+    second: DoorIcons_65
+  - first:
+      213: -5286167298884570417
+    second: DoorIcons_66
+  - first:
+      213: 12039500402998830
+    second: DoorIcons_67
+  - first:
+      213: -2277841871526331460
+    second: DoorIcons_68
+  - first:
+      213: 436018684006600266
+    second: DoorIcons_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoorIcons_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 574
+        width: 350
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329a1bce31dc2e46aea51601496661f
+      internalID: -101983570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIcons_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 574
+        width: 350
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c252e15902c1e84a9b3ade1a78e80bc
+      internalID: 780438858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIcons_2
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 574
+        width: 350
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310b6476a5c58454f9582dc3c4f56867
+      internalID: -904650990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIcons_3
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 574
+        width: 350
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849df122c9957e94a87deb9b417656e3
+      internalID: 1471830594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIcons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 14
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 14, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c12b38d7d35e374f8c49d9c4eebbfcd
+      internalID: -1640256118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIcons_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 124
+        width: 350
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f92a62dd9effd442b0e46203bb27f71
+      internalID: 887258084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIcons_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 124
+        width: 350
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4919fd06c084c0a4191bfa4a8ab5d1d9
+      internalID: -1212741875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIcons_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 124
+        width: 350
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3630f6770c7354a8d68f6644c7142b
+      internalID: -1529625737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 77a1250fa9f449e49b1fec7d4956b840
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DoorIcons_0: -101983570
+      DoorIcons_1: 780438858
+      DoorIcons_2: -904650990
+      DoorIcons_3: 1471830594
+      DoorIcons_4: -1640256118
+      DoorIcons_5: 887258084
+      DoorIcons_6: -1212741875
+      DoorIcons_7: -1529625737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

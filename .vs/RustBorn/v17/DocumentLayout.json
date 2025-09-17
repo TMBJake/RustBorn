@@ -1,0 +1,723 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamja\\RustBorn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|c:\\users\\iamja\\rustborn\\assets\\scripts\\relics\\pulseguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\relics\\pulseguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\relics\\regenplating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\relics\\regenplating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\relics\\overclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\relics\\overclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\relics\\toughmetal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\relics\\toughmetal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\data\\relicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\relicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\models\\dooriconrandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\models\\dooriconrandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\ui\\doorbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\doorbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\gameactions\\battleflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameactions\\battleflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\ui\\endturnbuttonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\endturnbuttonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\enemies\\magnethead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\magnethead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\effects\\cardeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\cardeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Effects\\DrawCardsEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Effects\\DrawCardsEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F542FF-3E69-841A-EAC8-2545C80DF679}|SREditor-Editor.csproj|C:\\Users\\iamja\\RustBorn\\assets\\sreditor\\package\\editor\\scripts\\classreplacer\\srtypeupgrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F542FF-3E69-841A-EAC8-2545C80DF679}|SREditor-Editor.csproj|solutionrelative:assets\\sreditor\\package\\editor\\scripts\\classreplacer\\srtypeupgrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iamja\\RustBorn\\Assets\\PauseResources\\CardRegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PauseResources\\CardRegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\systems\\effectsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\effectsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\views\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\views\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\gameactions\\enemyintentperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameactions\\enemyintentperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\gameactions\\enemyturnperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameactions\\enemyturnperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\gameactions\\enemyprepareintentga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameactions\\enemyprepareintentga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\gameactions\\enemyturnga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameactions\\enemyturnga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\general\\actionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\actionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\general\\gameaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\gameaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\systems\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\systems\\matchsetupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\matchsetupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\menu\\endlevelresources\\endlevelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\menu\\endlevelresources\\endlevelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\general\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\data\\coindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\coindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\ui\\collectrewardsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\collectrewardsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\systems\\cardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\cardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\gameactions\\performeffectga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameactions\\performeffectga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\models\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\models\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\general\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\gameactions\\playcardga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameactions\\playcardga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\views\\handview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\views\\handview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\general\\util\\mouseutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\util\\mouseutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\systems\\interactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\interactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\creators\\cardviewcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creators\\cardviewcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\TestSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Systems\\TestSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|C:\\Users\\iamja\\RustBorn\\assets\\scripts\\data\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789340FB-0C2A-1260-EAF5-3BC131EE8117}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\CardEffectsGA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameActions\\CardEffectsGA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\DrawCardsGA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameActions\\DrawCardsGA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PulseGuard.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Relics\\PulseGuard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Relics\\PulseGuard.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Relics\\PulseGuard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Relics\\PulseGuard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:17:54.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegenPlating.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Relics\\RegenPlating.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Relics\\RegenPlating.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Relics\\RegenPlating.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Relics\\RegenPlating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:16:56.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OverClock.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Relics\\OverClock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Relics\\OverClock.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Relics\\OverClock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Relics\\OverClock.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:16:07.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BattleFlowManager.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\BattleFlowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\BattleFlowManager.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\BattleFlowManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\BattleFlowManager.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:17:28.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoorButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\UI\\DoorButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DoorButtonHandler.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\UI\\DoorButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DoorButtonHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:51:57.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoorIconRandomizer.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\DoorIconRandomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Models\\DoorIconRandomizer.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\DoorIconRandomizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Models\\DoorIconRandomizer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:44:15.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToughMetal.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Relics\\ToughMetal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Relics\\ToughMetal.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Relics\\ToughMetal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Relics\\ToughMetal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:22:46.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EndTurnButtonUI.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\UI\\EndTurnButtonUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\EndTurnButtonUI.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\UI\\EndTurnButtonUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\EndTurnButtonUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:46:11.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MagnetHead.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Enemies\\MagnetHead.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\MagnetHead.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Enemies\\MagnetHead.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\MagnetHead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:10:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CardEffects.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Effects\\CardEffects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\CardEffects.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Effects\\CardEffects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\CardEffects.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:10:37.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Data\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\CardData.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Data\\CardData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\CardData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:34:47.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelicData.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Data\\RelicData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\RelicData.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Data\\RelicData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\RelicData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:12:27.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Models\\Player.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:20:19.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:14:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Models\\Enemy.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Models\\Enemy.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwFsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:06:58.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CardEffectsGA.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\CardEffectsGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\CardEffectsGA.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\CardEffectsGA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\CardEffectsGA.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAEwGEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:09:59.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DrawCardsEffect.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Effects\\DrawCardsEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\DrawCardsEffect.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Effects\\DrawCardsEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\DrawCardsEffect.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:24:06.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DrawCardsGA.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\DrawCardsGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\DrawCardsGA.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\DrawCardsGA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\DrawCardsGA.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:45:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EffectSystem.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\EffectSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\EffectSystem.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\EffectSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\EffectSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:36:45.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SRTypeUpgrader.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\SREditor\\Package\\Editor\\Scripts\\ClassReplacer\\SRTypeUpgrader.cs",
+              "RelativeDocumentMoniker": "Assets\\SREditor\\Package\\Editor\\Scripts\\ClassReplacer\\SRTypeUpgrader.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\SREditor\\Package\\Editor\\Scripts\\ClassReplacer\\SRTypeUpgrader.cs",
+              "RelativeToolTip": "Assets\\SREditor\\Package\\Editor\\Scripts\\ClassReplacer\\SRTypeUpgrader.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAEwEsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:52:51.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TestSystem.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\TestSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\TestSystem.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\TestSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\TestSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:54:19.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CardRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\PauseResources\\CardRegistry.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseResources\\CardRegistry.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\PauseResources\\CardRegistry.cs",
+              "RelativeToolTip": "Assets\\PauseResources\\CardRegistry.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:05:59.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CardView.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Views\\CardView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Views\\CardView.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Views\\CardView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Views\\CardView.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:05:53.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnemyIntentPerformer.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\EnemyIntentPerformer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\EnemyIntentPerformer.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\EnemyIntentPerformer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\EnemyIntentPerformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:20:55.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyTurnPerformer.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\EnemyTurnPerformer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\EnemyTurnPerformer.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\EnemyTurnPerformer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\EnemyTurnPerformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:21:18.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyPrepareIntentGA.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\EnemyPrepareIntentGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\EnemyPrepareIntentGA.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\EnemyPrepareIntentGA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\EnemyPrepareIntentGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:26:52.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnemyTurnGA.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\EnemyTurnGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\EnemyTurnGA.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\EnemyTurnGA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\EnemyTurnGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:54:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ActionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\ActionSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\ActionSystem.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\ActionSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\ActionSystem.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:45:54.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameAction.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\GameAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\GameAction.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\GameAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\GameAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:16:14.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\GameManager.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\GameManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:36:13.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MatchSetupSystem.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\MatchSetupSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\MatchSetupSystem.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\MatchSetupSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\MatchSetupSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:04:57.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EndLevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Menu\\EndLevelResources\\EndLevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu\\EndLevelResources\\EndLevelManager.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Menu\\EndLevelResources\\EndLevelManager.cs",
+              "RelativeToolTip": "Assets\\Menu\\EndLevelResources\\EndLevelManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:42:38.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:27:19.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CoinData.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Data\\CoinData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\CoinData.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Data\\CoinData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\CoinData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:40:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CollectRewardsUI.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\UI\\CollectRewardsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CollectRewardsUI.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\UI\\CollectRewardsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CollectRewardsUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:07:24.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CardSystem.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\CardSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CardSystem.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\CardSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\CardSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:34:22.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Models\\Effect.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Models\\Effect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Models\\Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:12:48.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PerformEffectGA.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\PerformEffectGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\PerformEffectGA.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\PerformEffectGA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\PerformEffectGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:32:16.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Singleton.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:45:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PlayCardGA.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\PlayCardGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameActions\\PlayCardGA.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\GameActions\\PlayCardGA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameActions\\PlayCardGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:54:22.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HandView.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Views\\HandView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Views\\HandView.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Views\\HandView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Views\\HandView.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:18:48.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Interactions.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\Interactions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\Interactions.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Systems\\Interactions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\Interactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:11:02.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MouseUtil.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\Util\\MouseUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Util\\MouseUtil.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\General\\Util\\MouseUtil.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Util\\MouseUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:20:42.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CardViewCreator.cs",
+              "DocumentMoniker": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Creators\\CardViewCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Creators\\CardViewCreator.cs",
+              "ToolTip": "C:\\Users\\iamja\\RustBorn\\Assets\\Scripts\\Creators\\CardViewCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Creators\\CardViewCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:40:14.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

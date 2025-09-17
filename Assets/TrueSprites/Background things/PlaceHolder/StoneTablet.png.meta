@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: e01fba38f23dc25499dca9d5fbf9f5e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5798443521186819049
+    second: StoneTablet_0
+  - first:
+      213: -5524064148710860313
+    second: StoneTablet_1
+  - first:
+      213: 3092215482702394326
+    second: StoneTablet_2
+  - first:
+      213: -5417330038367501100
+    second: StoneTablet_3
+  - first:
+      213: -1655745139416791732
+    second: StoneTablet_4
+  - first:
+      213: -9162261592953738307
+    second: StoneTablet_5
+  - first:
+      213: 1359383008941383286
+    second: StoneTablet_6
+  - first:
+      213: -2042086618154590486
+    second: StoneTablet_7
+  - first:
+      213: 924422690240563755
+    second: StoneTablet_8
+  - first:
+      213: 1075404712128398732
+    second: StoneTablet_9
+  - first:
+      213: -8278050160492889462
+    second: StoneTablet_10
+  - first:
+      213: 1846147674907389138
+    second: StoneTablet_11
+  - first:
+      213: -7462493212637954908
+    second: StoneTablet_12
+  - first:
+      213: 6156043021854698188
+    second: StoneTablet_13
+  - first:
+      213: -7088349596331490205
+    second: StoneTablet_14
+  - first:
+      213: -3684740450935893122
+    second: StoneTablet_15
+  - first:
+      213: 2131909097399293343
+    second: StoneTablet_16
+  - first:
+      213: 1689846039200812881
+    second: StoneTablet_17
+  - first:
+      213: -4340509315200239208
+    second: StoneTablet_18
+  - first:
+      213: 6694486104795176473
+    second: StoneTablet_19
+  - first:
+      213: -8166634552350368990
+    second: StoneTablet_20
+  - first:
+      213: 8156812801609119156
+    second: StoneTablet_21
+  - first:
+      213: 1741287289962470097
+    second: StoneTablet_22
+  - first:
+      213: 6719804910910134106
+    second: StoneTablet_23
+  - first:
+      213: -6949211219757303504
+    second: StoneTablet_24
+  - first:
+      213: -3457973515564024384
+    second: StoneTablet_25
+  - first:
+      213: -6515604342916832029
+    second: StoneTablet_26
+  - first:
+      213: -4755998693664754173
+    second: StoneTablet_27
+  - first:
+      213: -8266118712357063115
+    second: StoneTablet_28
+  - first:
+      213: -6178330419232251942
+    second: StoneTablet_29
+  - first:
+      213: 783221856471587301
+    second: StoneTablet_30
+  - first:
+      213: 8346494786581274822
+    second: StoneTablet_31
+  - first:
+      213: -6688103444722791383
+    second: StoneTablet_32
+  - first:
+      213: -4860869174716942500
+    second: StoneTablet_33
+  - first:
+      213: -4076137584972915037
+    second: StoneTablet_34
+  - first:
+      213: -1105412595695132946
+    second: StoneTablet_35
+  - first:
+      213: -3030734192323902420
+    second: StoneTablet_36
+  - first:
+      213: -3158877442860063471
+    second: StoneTablet_37
+  - first:
+      213: -1018442021587081821
+    second: StoneTablet_38
+  - first:
+      213: -898726936819293677
+    second: StoneTablet_39
+  - first:
+      213: -7924269771961282389
+    second: StoneTablet_40
+  - first:
+      213: 7741870061402604994
+    second: StoneTablet_41
+  - first:
+      213: -2147311886196771098
+    second: StoneTablet_42
+  - first:
+      213: 8536723904823597264
+    second: StoneTablet_43
+  - first:
+      213: -389663278415582529
+    second: StoneTablet_44
+  - first:
+      213: 3330919512936302903
+    second: StoneTablet_45
+  - first:
+      213: 6055651547205249493
+    second: StoneTablet_46
+  - first:
+      213: 7895474414524001917
+    second: StoneTablet_47
+  - first:
+      213: 1689547370205586739
+    second: StoneTablet_48
+  - first:
+      213: -5999806770911961132
+    second: StoneTablet_49
+  - first:
+      213: -1371920664644047540
+    second: StoneTablet_50
+  - first:
+      213: 8813093923859325656
+    second: StoneTablet_51
+  - first:
+      213: 5331944401077238454
+    second: StoneTablet_52
+  - first:
+      213: 1181289510847699692
+    second: StoneTablet_53
+  - first:
+      213: 4470837190837222626
+    second: StoneTablet_54
+  - first:
+      213: 4479682340908470384
+    second: StoneTablet_55
+  - first:
+      213: 1639988859293024556
+    second: StoneTablet_56
+  - first:
+      213: 1353078086501030750
+    second: StoneTablet_57
+  - first:
+      213: 8087800205821069840
+    second: StoneTablet_58
+  - first:
+      213: -5752873477652731852
+    second: StoneTablet_59
+  - first:
+      213: 4436989471424435214
+    second: StoneTablet_60
+  - first:
+      213: 5528547220689352876
+    second: StoneTablet_61
+  - first:
+      213: -130434728537010739
+    second: StoneTablet_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneTablet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb618a39a5387050800000000000000
+      internalID: 5798443521186819049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1006
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e95e9bace49653b0800000000000000
+      internalID: -5524064148710860313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1016
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d370772991c9ea20800000000000000
+      internalID: 3092215482702394326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1017
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d44d084807c1d4b0800000000000000
+      internalID: -5417330038367501100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_4
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1015
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c458b76719c9509e0800000000000000
+      internalID: -1655745139416791732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1013
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbba9ccff9b19d080800000000000000
+      internalID: -9162261592953738307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_6
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1019
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e17a1f4af7dd210800000000000000
+      internalID: 1359383008941383286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_7
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1015
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee115c4a0d09a3e0800000000000000
+      internalID: -2042086618154590486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_8
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1008
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a891af98534dc00800000000000000
+      internalID: 924422690240563755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1007
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c13053ea9cee00800000000000000
+      internalID: 1075404712128398732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_10
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1011
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ab4feec357e1d80800000000000000
+      internalID: -8278050160492889462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_11
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 999
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca4cd6785de9910800000000000000
+      internalID: 1846147674907389138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 931
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac73f906f5ef6890800000000000000
+      internalID: -7462493212637954908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 828
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaeba32388ae6550800000000000000
+      internalID: 6156043021854698188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 811
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364c0ea099f11ad90800000000000000
+      internalID: -7088349596331490205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 739
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73147c151c2ddcc0800000000000000
+      internalID: -3684740450935893122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 731
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9598eb5700169d10800000000000000
+      internalID: 2131909097399293343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_17
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 739
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f4aabf40a837710800000000000000
+      internalID: 1689846039200812881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 718
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899373b56c963c3c0800000000000000
+      internalID: -4340509315200239208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 699
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eda16b4a797ec50800000000000000
+      internalID: 6694486104795176473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 683
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b99b0b4294aae80800000000000000
+      internalID: -8166634552350368990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_21
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 683
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b53543c602d23170800000000000000
+      internalID: 8156812801609119156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 659
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da9d12809b4a2810800000000000000
+      internalID: 1741287289962470097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 651
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5759b2a6fa814d50800000000000000
+      internalID: 6719804910910134106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_24
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 649
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039f431d6317f8f90800000000000000
+      internalID: -6949211219757303504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 635
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdf812a86fc200d0800000000000000
+      internalID: -3457973515564024384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 629
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4237b0f5ce395a0800000000000000
+      internalID: -6515604342916832029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 619
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f3efe26c4ffdb0800000000000000
+      internalID: -4755998693664754173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 603
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5367fbea3d8d84d80800000000000000
+      internalID: -8266118712357063115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 597
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfdba8c739224aa0800000000000000
+      internalID: -6178330419232251942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 582
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99f47f0209eda00800000000000000
+      internalID: 783221856471587301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 568
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a3d969c4b4d370800000000000000
+      internalID: 8346494786581274822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 539
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c4b342a551f23a0800000000000000
+      internalID: -6688103444722791383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 523
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b9555d39ba8cb0800000000000000
+      internalID: -4860869174716942500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 483
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae12187676ae67c0800000000000000
+      internalID: -4076137584972915037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 475
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5957d919c8a0f0800000000000000
+      internalID: -1105412595695132946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 451
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2447e14f4ba0f5d0800000000000000
+      internalID: -3030734192323902420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 427
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115e451c3b96924d0800000000000000
+      internalID: -3158877442860063471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 419
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a8f69064cdd1f0800000000000000
+      internalID: -1018442021587081821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312afc4dc941783f0800000000000000
+      internalID: -898726936819293677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 403
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0d1e180a6570290800000000000000
+      internalID: -7924269771961282389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_41
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5422b7dc5a07b60800000000000000
+      internalID: 7741870061402604994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 355
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6744967373332e0800000000000000
+      internalID: -2147311886196771098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 368
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d898947929887670800000000000000
+      internalID: 8536723904823597264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 352
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba66041053a79af0800000000000000
+      internalID: -389663278415582529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 315
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7394cf726adc93e20800000000000000
+      internalID: 3330919512936302903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 301
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a6ba7ffef90450800000000000000
+      internalID: 6055651547205249493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 296
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e63e2e52c529d60800000000000000
+      internalID: 7895474414524001917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 283
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ac40b16a727710800000000000000
+      internalID: 1689547370205586739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 263
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df1fcab7876cbca0800000000000000
+      internalID: -5999806770911961132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 251
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dafdb9c65f5fce0800000000000000
+      internalID: -1371920664644047540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 243
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2e9cfda366e4a70800000000000000
+      internalID: 8813093923859325656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 221
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba7754de2fdef940800000000000000
+      internalID: 5331944401077238454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 211
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cead8f62d88c46010800000000000000
+      internalID: 1181289510847699692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec3570dcba9b0e30800000000000000
+      internalID: 4470837190837222626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 163
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070907cca570b2e30800000000000000
+      internalID: 4479682340908470384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 147
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2142c1bd2962c610800000000000000
+      internalID: 1639988859293024556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b524bc95917c210800000000000000
+      internalID: 1353078086501030750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 115
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01acb4aaf63ad3070800000000000000
+      internalID: 8087800205821069840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_59
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 99
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4382eb65d00b920b0800000000000000
+      internalID: -5752873477652731852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 91
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d6648a6a539d30800000000000000
+      internalID: 4436989471424435214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8792dd76859bc40800000000000000
+      internalID: 5528547220689352876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneTablet_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd4d233e4a903ef0800000000000000
+      internalID: -130434728537010739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StoneTablet_0: 5798443521186819049
+      StoneTablet_1: -5524064148710860313
+      StoneTablet_10: -8278050160492889462
+      StoneTablet_11: 1846147674907389138
+      StoneTablet_12: -7462493212637954908
+      StoneTablet_13: 6156043021854698188
+      StoneTablet_14: -7088349596331490205
+      StoneTablet_15: -3684740450935893122
+      StoneTablet_16: 2131909097399293343
+      StoneTablet_17: 1689846039200812881
+      StoneTablet_18: -4340509315200239208
+      StoneTablet_19: 6694486104795176473
+      StoneTablet_2: 3092215482702394326
+      StoneTablet_20: -8166634552350368990
+      StoneTablet_21: 8156812801609119156
+      StoneTablet_22: 1741287289962470097
+      StoneTablet_23: 6719804910910134106
+      StoneTablet_24: -6949211219757303504
+      StoneTablet_25: -3457973515564024384
+      StoneTablet_26: -6515604342916832029
+      StoneTablet_27: -4755998693664754173
+      StoneTablet_28: -8266118712357063115
+      StoneTablet_29: -6178330419232251942
+      StoneTablet_3: -5417330038367501100
+      StoneTablet_30: 783221856471587301
+      StoneTablet_31: 8346494786581274822
+      StoneTablet_32: -6688103444722791383
+      StoneTablet_33: -4860869174716942500
+      StoneTablet_34: -4076137584972915037
+      StoneTablet_35: -1105412595695132946
+      StoneTablet_36: -3030734192323902420
+      StoneTablet_37: -3158877442860063471
+      StoneTablet_38: -1018442021587081821
+      StoneTablet_39: -898726936819293677
+      StoneTablet_4: -1655745139416791732
+      StoneTablet_40: -7924269771961282389
+      StoneTablet_41: 7741870061402604994
+      StoneTablet_42: -2147311886196771098
+      StoneTablet_43: 8536723904823597264
+      StoneTablet_44: -389663278415582529
+      StoneTablet_45: 3330919512936302903
+      StoneTablet_46: 6055651547205249493
+      StoneTablet_47: 7895474414524001917
+      StoneTablet_48: 1689547370205586739
+      StoneTablet_49: -5999806770911961132
+      StoneTablet_5: -9162261592953738307
+      StoneTablet_50: -1371920664644047540
+      StoneTablet_51: 8813093923859325656
+      StoneTablet_52: 5331944401077238454
+      StoneTablet_53: 1181289510847699692
+      StoneTablet_54: 4470837190837222626
+      StoneTablet_55: 4479682340908470384
+      StoneTablet_56: 1639988859293024556
+      StoneTablet_57: 1353078086501030750
+      StoneTablet_58: 8087800205821069840
+      StoneTablet_59: -5752873477652731852
+      StoneTablet_6: 1359383008941383286
+      StoneTablet_60: 4436989471424435214
+      StoneTablet_61: 5528547220689352876
+      StoneTablet_62: -130434728537010739
+      StoneTablet_7: -2042086618154590486
+      StoneTablet_8: 924422690240563755
+      StoneTablet_9: 1075404712128398732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

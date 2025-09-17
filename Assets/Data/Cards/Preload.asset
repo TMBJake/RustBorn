@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88a52a8d54f800d4bad087dc0002c27c, type: 3}
+  m_Name: Preload
+  m_EditorClassIdentifier: 
+  <Description>k__BackingField: Chose a card from the drawpile to play
+  <Mana>k__BackingField: 2
+  <Image>k__BackingField: {fileID: 5082167137029064530, guid: 58eab39158a26fc49b0cae3801dfb710, type: 3}
+  <Type>k__BackingField: 1
+  <Effects>k__BackingField:
+  - rid: 7876319864434720855
+  references:
+    version: 2
+    RefIds:
+    - rid: 7876319864434720855
+      type: {class: PreloadEffect, ns: , asm: Assembly-CSharp}
+      data: 

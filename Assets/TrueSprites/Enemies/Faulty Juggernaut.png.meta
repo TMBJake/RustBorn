@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 82249a72542e165408e467715d49f80b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3868162239879722157
+    second: Faulty Juggernaut_0
+  - first:
+      213: 145816379533308527
+    second: Faulty Juggernaut_1
+  - first:
+      213: 7116247698567462387
+    second: Faulty Juggernaut_2
+  - first:
+      213: 6990471408574492316
+    second: Faulty Juggernaut_3
+  - first:
+      213: -5511884782697895379
+    second: Faulty Juggernaut_4
+  - first:
+      213: -9051734141345228191
+    second: Faulty Juggernaut_5
+  - first:
+      213: 8901530744472910842
+    second: Faulty Juggernaut_6
+  - first:
+      213: 6245401130887889947
+    second: Faulty Juggernaut_7
+  - first:
+      213: 480460904507982048
+    second: Faulty Juggernaut_8
+  - first:
+      213: -4772586542527085823
+    second: Faulty Juggernaut_9
+  - first:
+      213: 6641653539017987095
+    second: Faulty Juggernaut_10
+  - first:
+      213: -4532313407953479571
+    second: Faulty Juggernaut_11
+  - first:
+      213: 2623716258462724182
+    second: Faulty Juggernaut_12
+  - first:
+      213: 3070304789639671519
+    second: Faulty Juggernaut_13
+  - first:
+      213: -2922556378741423570
+    second: Faulty Juggernaut_14
+  - first:
+      213: -819202905301588346
+    second: Faulty Juggernaut_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Faulty Juggernaut_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 679
+        width: 323
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bc36eefe6815ac0800000000000000
+      internalID: -3868162239879722157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 672
+        width: 287
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f623480893b060200800000000000000
+      internalID: 145816379533308527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 921
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdfdce049df1c260800000000000000
+      internalID: 7116247698567462387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 904
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e6b9085b4230160800000000000000
+      internalID: 6990471408574492316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_4
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 915
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a296c4ef9d183b0800000000000000
+      internalID: -5511884782697895379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 679
+        width: 294
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a97dfa1c7c16280800000000000000
+      internalID: -9051734141345228191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 383
+        width: 328
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb68dbc07988b70800000000000000
+      internalID: 8901530744472910842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 383
+        width: 319
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14456e2d3f1ca650800000000000000
+      internalID: 6245401130887889947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 383
+        width: 309
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e049a5a5a0faa600800000000000000
+      internalID: 480460904507982048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 607
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1030dd863dd54cdb0800000000000000
+      internalID: -4772586542527085823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 380
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714126a64b4eb2c50800000000000000
+      internalID: 6641653539017987095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 307
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68513cf7fcf911c0800000000000000
+      internalID: -4532313407953479571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 72
+        width: 315
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65076193900596420800000000000000
+      internalID: 2623716258462724182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 71
+        width: 298
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde27a260f9eb9a20800000000000000
+      internalID: 3070304789639671519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 281
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c019357ef077d0800000000000000
+      internalID: -2922556378741423570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faulty Juggernaut_15
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 316
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e7864c4b91a4f0800000000000000
+      internalID: -819202905301588346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 22a41ad52cd51c649993dea2a4b95d79
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Faulty Juggernaut_0: -3868162239879722157
+      Faulty Juggernaut_1: 145816379533308527
+      Faulty Juggernaut_10: 6641653539017987095
+      Faulty Juggernaut_11: -4532313407953479571
+      Faulty Juggernaut_12: 2623716258462724182
+      Faulty Juggernaut_13: 3070304789639671519
+      Faulty Juggernaut_14: -2922556378741423570
+      Faulty Juggernaut_15: -819202905301588346
+      Faulty Juggernaut_2: 7116247698567462387
+      Faulty Juggernaut_3: 6990471408574492316
+      Faulty Juggernaut_4: -5511884782697895379
+      Faulty Juggernaut_5: -9051734141345228191
+      Faulty Juggernaut_6: 8901530744472910842
+      Faulty Juggernaut_7: 6245401130887889947
+      Faulty Juggernaut_8: 480460904507982048
+      Faulty Juggernaut_9: -4772586542527085823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

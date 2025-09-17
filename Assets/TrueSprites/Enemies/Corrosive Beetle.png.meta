@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 857b63466c95b684fa0f499d566f356d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3744825663288280999
+    second: Corrosive Beetle_0
+  - first:
+      213: -944766646263426851
+    second: Corrosive Beetle_1
+  - first:
+      213: 8336550896590503347
+    second: Corrosive Beetle_2
+  - first:
+      213: -4190419150927180923
+    second: Corrosive Beetle_3
+  - first:
+      213: -8895509389181299960
+    second: Corrosive Beetle_4
+  - first:
+      213: -6255790646837689624
+    second: Corrosive Beetle_5
+  - first:
+      213: 913988911775724092
+    second: Corrosive Beetle_6
+  - first:
+      213: -1622166137447327215
+    second: Corrosive Beetle_7
+  - first:
+      213: -7126069670765106221
+    second: Corrosive Beetle_8
+  - first:
+      213: -8788010518147896939
+    second: Corrosive Beetle_9
+  - first:
+      213: 2560477283926424833
+    second: Corrosive Beetle_10
+  - first:
+      213: -4030280885776034623
+    second: Corrosive Beetle_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Corrosive Beetle_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 726
+        width: 310
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9587fe176e4b70cc0800000000000000
+      internalID: -3744825663288280999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 463
+        width: 279
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0d4d5adb383e2f0800000000000000
+      internalID: -944766646263426851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 727
+        width: 287
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdbd3b1fd061b370800000000000000
+      internalID: 8336550896590503347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 463
+        width: 275
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bcdf8ebf3a8d5c0800000000000000
+      internalID: -4190419150927180923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 712
+        width: 371
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80352b9475dcc8480800000000000000
+      internalID: -8895509389181299960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 208
+        width: 334
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e247022d87fe29a0800000000000000
+      internalID: -6255790646837689624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 227
+        width: 326
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b90f92142fac00800000000000000
+      internalID: 913988911775724092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 400
+        width: 355
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ad8ca1e78ec79e0800000000000000
+      internalID: -1622166137447327215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 231
+        width: 286
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db6c55d36d1b1d90800000000000000
+      internalID: -7126069670765106221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 23
+        width: 294
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e56f9ef6ba0680800000000000000
+      internalID: -8788010518147896939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 25
+        width: 298
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d34e31684a88320800000000000000
+      internalID: 2560477283926424833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrosive Beetle_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 26
+        width: 319
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d54243e09118c0800000000000000
+      internalID: -4030280885776034623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Corrosive Beetle_0: -3744825663288280999
+      Corrosive Beetle_1: -944766646263426851
+      Corrosive Beetle_10: 2560477283926424833
+      Corrosive Beetle_11: -4030280885776034623
+      Corrosive Beetle_2: 8336550896590503347
+      Corrosive Beetle_3: -4190419150927180923
+      Corrosive Beetle_4: -8895509389181299960
+      Corrosive Beetle_5: -6255790646837689624
+      Corrosive Beetle_6: 913988911775724092
+      Corrosive Beetle_7: -1622166137447327215
+      Corrosive Beetle_8: -7126069670765106221
+      Corrosive Beetle_9: -8788010518147896939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
