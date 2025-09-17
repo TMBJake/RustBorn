@@ -26,5 +26,6 @@
 - Enable relic collection and usage.
 - Implement a system for acquiring more cards.
 - Improve overall gameplay fluidity and polish.
+- The game also has its bugs, which appear the more you play.
 
 ---
